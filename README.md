@@ -96,6 +96,7 @@ Contributors - [Dennis Kimathi](https://github.com/DennohKim)
 [Silvia Mutete](https://github.com/Silvia-Mutete2)
 [Wycliffe Ndiba](https://github.com/ESPersonnel)
 [John Kamau](https://github.com/JohnKamaujk)
+[Evans Rutto](https://github.com/robbyevans)
 
 [Go Back to the top](#TurfZone-Web-app)
 # TuffZone
